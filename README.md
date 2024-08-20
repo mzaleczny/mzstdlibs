@@ -1,0 +1,9 @@
+Compilation order:
+1. mzstd
+2. mzstdsystem
+3. mzstdshell
+4. mzstdwin32
+5. mzstdmathext
+6. mzstdgraphics
+7. mzstdgui
+8. Demo
