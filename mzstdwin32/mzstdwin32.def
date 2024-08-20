@@ -1,0 +1,6 @@
+﻿; mzstdwin32.def: Deklaruje parametry modułu dla biblioteki DLL.
+
+LIBRARY
+
+EXPORTS
+    ; Jawne eksportowanie jest możliwe w tym miejscu

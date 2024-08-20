@@ -1,0 +1,16 @@
+[
+    {
+        "id": "mnuGame",
+		"name": "mnuGame",
+        "caption": "Game",
+        "width": "75",
+        "items": [
+			{"id": "btn01", "name": "btn01", "caption": "Nowa gra", "icon": "Icon_01.bmp", "shortcut": "Ctrl+Q", "width": "200"},
+			{"id": "btn02", "name": "btn02", "caption": "Wczytaj grę", "icon": "Icon_02.bmp", "shortcut": "Ctrl+W"},
+			{"id": "btn03", "name": "btn03", "caption": "Zapisz grę", "icon": "Icon_03.bmp", "shortcut": "Ctrl+E"},
+			{"id": "btn04", "name": "btn04", "caption": "-", "icon": "Icon_04.bmp"},
+			{"id": "btn05", "name": "btn05", "caption": "Opcje", "icon": "Icon_05.bmp", "shortcut": "Ctrl+R"},
+			{"id": "btnClose", "name": "btnClose", "caption": "Zakończ", "icon": "Icon_06.bmp", "shortcut": "Ctrl+X"},
+        ]
+	}
+]

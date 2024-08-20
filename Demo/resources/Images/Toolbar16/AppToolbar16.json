@@ -1,0 +1,17 @@
+[
+    {"id": "btn01", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_01.bmp"},
+    {"id": "btn02", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_02.bmp"},
+    {"id": "btn03", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_03.bmp"},
+    {"id": "btn04", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_04.bmp"},
+    {"id": "btn05", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_05.bmp"},
+    {"id": "btn06", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_06.bmp"},
+    {"id": "btn07", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_07.bmp"},
+    {"id": "btn08", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_08.bmp"},
+    {"id": "btn09", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_09.bmp"},
+    {"id": "btn10", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_10.bmp"},
+    {"id": "btn11", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_11.bmp"},
+    {"id": "btn12", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_12.bmp"},
+    {"id": "btn13", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_13.bmp"},
+    {"id": "btn14", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_14.bmp"},
+    {"id": "btnClose", "type": "tbButton", "width": "16", "height": "16", "tooltip": "Hello World!", "icon": "Icon_15.bmp"},
+]

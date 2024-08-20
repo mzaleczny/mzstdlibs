@@ -1,0 +1,6 @@
+; mzstd.def : Declares the module parameters for the DLL.
+
+LIBRARY      "mzstd"
+
+EXPORTS
+    ; Explicit exports can go here
